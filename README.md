@@ -1,3 +1,5 @@
+Versão GPS do centro de Joinville -> https://github.com/ManfredHair/gps
+
 # Leilão de Entregas
 
 Este projeto aborda conceitos fundamentais de Inteligência Artificial aplicados à otimização de entregas urbanas. O escopo inclui tópicos como Introdução à IA, Representação do Conhecimento, Teoria dos Grafos, Resolução de Problemas e Otimização.

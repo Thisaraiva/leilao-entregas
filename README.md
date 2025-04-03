@@ -1,5 +1,12 @@
 Versão GPS do centro de Joinville -> https://github.com/ManfredHair/gps
 
+## Equipe:
+- Icaro Botelho
+- Gustavo Henrique Martins
+- Maruan Biasi El Achkar
+- Ricardo Falção Schlieper
+- Thiago de Freitas Saraiva
+
 # Leilão de Entregas
 
 Este projeto aborda conceitos fundamentais de Inteligência Artificial aplicados à otimização de entregas urbanas. O escopo inclui tópicos como Introdução à IA, Representação do Conhecimento, Teoria dos Grafos, Resolução de Problemas e Otimização.
